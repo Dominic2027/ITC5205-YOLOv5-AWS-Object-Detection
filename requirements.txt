@@ -1,0 +1,11 @@
+boto3
+numpy
+pandas
+pillow
+PyYAML
+requests
+scipy
+tqdm
+seaborn
+ultralytics
+opencv-python-headless

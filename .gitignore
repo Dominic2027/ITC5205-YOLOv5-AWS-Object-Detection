@@ -1,0 +1,14 @@
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.venv/
+venv/
+__pycache__/
+*.pyc
+yolov5/
+*.pt
+runs/
+*.log
+.DS_Store
